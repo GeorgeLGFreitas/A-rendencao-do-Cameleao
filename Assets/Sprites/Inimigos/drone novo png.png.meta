@@ -1,0 +1,4879 @@
+fileFormatVersion: 2
+guid: 980a9a83dd29b7c408eb545685c145a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2476653196214484266
+    second: drone novo png_0
+  - first:
+      213: -4599381596824315700
+    second: drone novo png_1
+  - first:
+      213: -3880485161694592087
+    second: drone novo png_2
+  - first:
+      213: 7705428282342010712
+    second: drone novo png_1
+  - first:
+      213: -3976322916233057787
+    second: drone novo png_4
+  - first:
+      213: -5668004096828396466
+    second: drone novo png_5
+  - first:
+      213: -3529049379540911162
+    second: drone novo png_6
+  - first:
+      213: 1632696126103528086
+    second: drone novo png_7
+  - first:
+      213: 5024380124950572990
+    second: drone novo png_2
+  - first:
+      213: -3954008653216916100
+    second: drone novo png_9
+  - first:
+      213: 1715236831229763908
+    second: drone novo png_10
+  - first:
+      213: 8437785157115003400
+    second: drone novo png_11
+  - first:
+      213: 7739741819663889656
+    second: drone novo png_12
+  - first:
+      213: -9210151504756575622
+    second: drone novo png_3
+  - first:
+      213: 4105760611580493103
+    second: drone novo png_14
+  - first:
+      213: 7552186050726300330
+    second: drone novo png_4
+  - first:
+      213: -7083146552937572
+    second: drone novo png_16
+  - first:
+      213: -3572010414954489097
+    second: drone novo png_17
+  - first:
+      213: -4602583970688875643
+    second: drone novo png_18
+  - first:
+      213: 1944152125044886003
+    second: drone novo png_19
+  - first:
+      213: -6605159492069180143
+    second: drone novo png_20
+  - first:
+      213: 3728529760462345019
+    second: drone novo png_21
+  - first:
+      213: -5348730438940014561
+    second: drone novo png_22
+  - first:
+      213: -6650385678411413072
+    second: drone novo png_23
+  - first:
+      213: 6257929045306085456
+    second: drone novo png_24
+  - first:
+      213: -2201537905084773513
+    second: drone novo png_25
+  - first:
+      213: -6539324896943831674
+    second: drone novo png_26
+  - first:
+      213: -1665900951203663757
+    second: drone novo png_27
+  - first:
+      213: -2671471468774739638
+    second: drone novo png_28
+  - first:
+      213: 8996985938578257799
+    second: drone novo png_29
+  - first:
+      213: -6878938291832226409
+    second: drone novo png_30
+  - first:
+      213: -2885827048507644844
+    second: drone novo png_31
+  - first:
+      213: 6062414338771095425
+    second: drone novo png_32
+  - first:
+      213: 457457905318499108
+    second: drone novo png_33
+  - first:
+      213: -5121675530360642160
+    second: drone novo png_34
+  - first:
+      213: -6896983667912533480
+    second: drone novo png_35
+  - first:
+      213: -3064392268204597124
+    second: drone novo png_36
+  - first:
+      213: -3328278590386143956
+    second: drone novo png_37
+  - first:
+      213: 4812194992783005015
+    second: drone novo png_38
+  - first:
+      213: 1033882402641290544
+    second: drone novo png_39
+  - first:
+      213: -3425429222440287521
+    second: drone novo png_40
+  - first:
+      213: -7130297475737695881
+    second: drone novo png_41
+  - first:
+      213: -7971231377610316686
+    second: drone novo png_42
+  - first:
+      213: -3291250402492415141
+    second: drone novo png_43
+  - first:
+      213: -5136110520088737514
+    second: drone novo png_44
+  - first:
+      213: 7456228616487739985
+    second: drone novo png_45
+  - first:
+      213: -9098335751866628018
+    second: drone novo png_46
+  - first:
+      213: -8588387698173071434
+    second: drone novo png_47
+  - first:
+      213: 8523158339954857692
+    second: drone novo png_48
+  - first:
+      213: 5839648241772439347
+    second: drone novo png_49
+  - first:
+      213: -6790684428332749622
+    second: drone novo png_50
+  - first:
+      213: -7826973109435459942
+    second: drone novo png_51
+  - first:
+      213: 4010904312144522092
+    second: drone novo png_52
+  - first:
+      213: -3813637371816667132
+    second: drone novo png_53
+  - first:
+      213: 1355438257293822115
+    second: drone novo png_54
+  - first:
+      213: -1603013191792367775
+    second: drone novo png_55
+  - first:
+      213: -8733166123863278200
+    second: drone novo png_56
+  - first:
+      213: 3972970721363488047
+    second: drone novo png_57
+  - first:
+      213: 5924088174795749160
+    second: drone novo png_58
+  - first:
+      213: -3301745066220256061
+    second: drone novo png_59
+  - first:
+      213: -1274015848388472891
+    second: drone novo png_60
+  - first:
+      213: 7698449852014890122
+    second: drone novo png_61
+  - first:
+      213: -1951424204064595973
+    second: drone novo png_62
+  - first:
+      213: 2682183113496136166
+    second: drone novo png_63
+  - first:
+      213: 5889654302532152964
+    second: drone novo png_64
+  - first:
+      213: -5398469867909182395
+    second: drone novo png_65
+  - first:
+      213: -6488979621595767317
+    second: drone novo png_66
+  - first:
+      213: -4976286955435967013
+    second: drone novo png_67
+  - first:
+      213: -3928153570401592856
+    second: drone novo png_68
+  - first:
+      213: -3133462785054202140
+    second: drone novo png_69
+  - first:
+      213: -1449922670156796372
+    second: drone novo png_70
+  - first:
+      213: -3422001121392320016
+    second: drone novo png_71
+  - first:
+      213: -3110810832654358178
+    second: drone novo png_72
+  - first:
+      213: 6523315354285165063
+    second: drone novo png_73
+  - first:
+      213: -7090067246389977814
+    second: drone novo png_74
+  - first:
+      213: -8685874798802686662
+    second: drone novo png_75
+  - first:
+      213: -3384690862791225309
+    second: drone novo png_76
+  - first:
+      213: -8683474941987499763
+    second: drone novo png_77
+  - first:
+      213: 5303194318543972823
+    second: drone novo png_78
+  - first:
+      213: -1269618618873777024
+    second: drone novo png_79
+  - first:
+      213: 7583789543530144673
+    second: drone novo png_80
+  - first:
+      213: 894366078939401531
+    second: drone novo png_81
+  - first:
+      213: -922691714163972577
+    second: drone novo png_82
+  - first:
+      213: 1970816381102764856
+    second: drone novo png_83
+  - first:
+      213: 3952111887544810476
+    second: drone novo png_84
+  - first:
+      213: -8418751915939195178
+    second: drone novo png_85
+  - first:
+      213: -2175943489218024680
+    second: drone novo png_86
+  - first:
+      213: -5946734616485506140
+    second: drone novo png_87
+  - first:
+      213: 2767962909070999676
+    second: drone novo png_88
+  - first:
+      213: 8841254713942805370
+    second: drone novo png_89
+  - first:
+      213: -8372283037469661721
+    second: drone novo png_90
+  - first:
+      213: -2293747020079239379
+    second: drone novo png_91
+  - first:
+      213: 317545115161517214
+    second: drone novo png_92
+  - first:
+      213: 5787593085125318771
+    second: drone novo png_93
+  - first:
+      213: 8828566474476333570
+    second: drone novo png_94
+  - first:
+      213: -831638184020451188
+    second: drone novo png_95
+  - first:
+      213: -2912690055707053172
+    second: drone novo png_96
+  - first:
+      213: -2217676632669566187
+    second: drone novo png_97
+  - first:
+      213: -5718763319260531835
+    second: drone novo png_98
+  - first:
+      213: 8950704009989113899
+    second: drone novo png_99
+  - first:
+      213: 899423070866098714
+    second: drone novo png_100
+  - first:
+      213: 8372440114608010367
+    second: drone novo png_101
+  - first:
+      213: -4521953965229542765
+    second: drone novo png_102
+  - first:
+      213: 7638846138822761033
+    second: drone novo png_103
+  - first:
+      213: 6583678481383217773
+    second: drone novo png_104
+  - first:
+      213: 395729297813614258
+    second: drone novo png_105
+  - first:
+      213: -7587797275651551702
+    second: drone novo png_106
+  - first:
+      213: 8476150449160341434
+    second: drone novo png_107
+  - first:
+      213: 3303023725728885463
+    second: drone novo png_108
+  - first:
+      213: 6237511651741798440
+    second: drone novo png_109
+  - first:
+      213: 5152562511865143793
+    second: drone novo png_110
+  - first:
+      213: 2840251536230333142
+    second: drone novo png_111
+  - first:
+      213: -1744277019993766805
+    second: drone novo png_112
+  - first:
+      213: 8577217780971807559
+    second: drone novo png_113
+  - first:
+      213: 5649675295757911082
+    second: drone novo png_114
+  - first:
+      213: 8516259900741323791
+    second: drone novo png_115
+  - first:
+      213: -5726968121735162657
+    second: drone novo png_116
+  - first:
+      213: -2948057882418540581
+    second: drone novo png_117
+  - first:
+      213: -5164174386074539313
+    second: drone novo png_118
+  - first:
+      213: -8492059251762709065
+    second: drone novo png_119
+  - first:
+      213: -2012303941581194066
+    second: drone novo png_120
+  - first:
+      213: 8140370029817765995
+    second: drone novo png_121
+  - first:
+      213: 8995863548404940161
+    second: drone novo png_122
+  - first:
+      213: -2074187554177488582
+    second: drone novo png_123
+  - first:
+      213: -553802526880692777
+    second: drone novo png_124
+  - first:
+      213: 2684651530746001629
+    second: drone novo png_125
+  - first:
+      213: -4364217513406176958
+    second: drone novo png_126
+  - first:
+      213: 4706423502089743979
+    second: drone novo png_127
+  - first:
+      213: -2804087741659183236
+    second: drone novo png_128
+  - first:
+      213: 5624391983759287307
+    second: drone novo png_129
+  - first:
+      213: -4645019457003795612
+    second: drone novo png_130
+  - first:
+      213: 5359263125867308490
+    second: drone novo png_131
+  - first:
+      213: 1861292416441470397
+    second: drone novo png_132
+  - first:
+      213: 8189493659072700378
+    second: drone novo png_133
+  - first:
+      213: -4529058503651411131
+    second: drone novo png_134
+  - first:
+      213: 4181491083488416657
+    second: drone novo png_135
+  - first:
+      213: 6742217044674396559
+    second: drone novo png_136
+  - first:
+      213: 7634800159595941360
+    second: drone novo png_137
+  - first:
+      213: -7936118978752528590
+    second: drone novo png_138
+  - first:
+      213: -8562391753451521799
+    second: drone novo png_139
+  - first:
+      213: 8260772259129366538
+    second: drone novo png_140
+  - first:
+      213: 8978683262476684927
+    second: drone novo png_141
+  - first:
+      213: 7781118526300706523
+    second: drone novo png_142
+  - first:
+      213: -7324209221775190271
+    second: drone novo png_143
+  - first:
+      213: -5697834674838029910
+    second: drone novo png_144
+  - first:
+      213: -6029817585667504578
+    second: drone novo png_145
+  - first:
+      213: -6270028600305393282
+    second: drone novo png_146
+  - first:
+      213: -6082978955816286175
+    second: drone novo png_147
+  - first:
+      213: 4813101430244965428
+    second: drone novo png_148
+  - first:
+      213: -8664001489989363801
+    second: drone novo png_149
+  - first:
+      213: -7008974235866675627
+    second: drone novo png_150
+  - first:
+      213: 1323861058300909279
+    second: drone novo png_151
+  - first:
+      213: 4758485246355939593
+    second: drone novo png_152
+  - first:
+      213: 2795610433643450328
+    second: drone novo png_153
+  - first:
+      213: -4383468827100424819
+    second: drone novo png_154
+  - first:
+      213: -549158500289680545
+    second: drone novo png_155
+  - first:
+      213: -5681274928801764720
+    second: drone novo png_156
+  - first:
+      213: 2423604349129785213
+    second: drone novo png_157
+  - first:
+      213: 1439461589999862165
+    second: drone novo png_158
+  - first:
+      213: -5654509610346340140
+    second: drone novo png_159
+  - first:
+      213: 7756682633128715187
+    second: drone novo png_160
+  - first:
+      213: -1715713638256686488
+    second: drone novo png_161
+  - first:
+      213: -4379527351454470309
+    second: drone novo png_162
+  - first:
+      213: -4918511537727298315
+    second: drone novo png_163
+  - first:
+      213: 3286598752886185700
+    second: drone novo png_164
+  - first:
+      213: 2457950630796228585
+    second: drone novo png_165
+  - first:
+      213: 6930227730395107612
+    second: drone novo png_166
+  - first:
+      213: 3051556741883180709
+    second: drone novo png_167
+  - first:
+      213: -3535356059913307616
+    second: drone novo png_168
+  - first:
+      213: -3106388789919397911
+    second: drone novo png_169
+  - first:
+      213: 7527596373633540445
+    second: drone novo png_170
+  - first:
+      213: -4136321767631818478
+    second: drone novo png_171
+  - first:
+      213: 3820065040118493821
+    second: drone novo png_172
+  - first:
+      213: 2652277607481348726
+    second: drone novo png_173
+  - first:
+      213: -7593698659613239769
+    second: drone novo png_174
+  - first:
+      213: 8071198373950099146
+    second: drone novo png_175
+  - first:
+      213: -1342649586415160295
+    second: drone novo png_176
+  - first:
+      213: -3334408218824422447
+    second: drone novo png_177
+  - first:
+      213: -9133939909128838985
+    second: drone novo png_178
+  - first:
+      213: -6601130927371437752
+    second: drone novo png_179
+  - first:
+      213: 6386980562213066493
+    second: drone novo png_180
+  - first:
+      213: -8752166181954862403
+    second: drone novo png_181
+  - first:
+      213: -5090746663999354384
+    second: drone novo png_182
+  - first:
+      213: -7693281374672696633
+    second: drone novo png_183
+  - first:
+      213: -2000125616552586513
+    second: drone novo png_184
+  - first:
+      213: -3958378899714636368
+    second: drone novo png_185
+  - first:
+      213: 8835870468450837513
+    second: drone novo png_186
+  - first:
+      213: -43685511316245362
+    second: drone novo png_187
+  - first:
+      213: -7312933125379789008
+    second: drone novo png_188
+  - first:
+      213: 6157236715485990409
+    second: drone novo png_189
+  - first:
+      213: 2305158756212617719
+    second: drone novo png_190
+  - first:
+      213: -5305586950477967970
+    second: drone novo png_191
+  - first:
+      213: 4221219022476915034
+    second: drone novo png_192
+  - first:
+      213: 3252683496331179098
+    second: drone novo png_193
+  - first:
+      213: 2759886191945757770
+    second: drone novo png_194
+  - first:
+      213: 3207267374482792029
+    second: drone novo png_195
+  - first:
+      213: -1885304449348691309
+    second: drone novo png_196
+  - first:
+      213: -8379030684842155314
+    second: drone novo png_197
+  - first:
+      213: -1933520548728477541
+    second: drone novo png_198
+  - first:
+      213: 1878711985233815671
+    second: drone novo png_199
+  - first:
+      213: -2064611951279513245
+    second: drone novo png_200
+  - first:
+      213: 7295153356974767353
+    second: drone novo png_201
+  - first:
+      213: -6706091912438844073
+    second: drone novo png_202
+  - first:
+      213: 7971371687458073687
+    second: drone novo png_203
+  - first:
+      213: 1085180441773872612
+    second: drone novo png_204
+  - first:
+      213: -715004931674288785
+    second: drone novo png_205
+  - first:
+      213: -8312906324013938729
+    second: drone novo png_206
+  - first:
+      213: -4722248705581379085
+    second: drone novo png_207
+  - first:
+      213: 7705428282342010712
+    second: drone novo png_3
+  - first:
+      213: -9183213345311818822
+    second: drone novo png_5
+  - first:
+      213: -996313214739045406
+    second: drone novo png_7
+  - first:
+      213: 5024380124950572990
+    second: drone novo png_8
+  - first:
+      213: -4466276053612686560
+    second: drone novo png_11
+  - first:
+      213: -7949357110138551812
+    second: drone novo png_13
+  - first:
+      213: 7552186050726300330
+    second: drone novo png_15
+  - first:
+      213: 5362063927018624713
+    second: drone novo png_16
+  - first:
+      213: -7253679301944363157
+    second: drone novo png_18
+  - first:
+      213: -1911143274383274570
+    second: drone novo png_20
+  - first:
+      213: -1228291807846706881
+    second: drone novo png_21
+  - first:
+      213: -587555956374511268
+    second: drone novo png_22
+  - first:
+      213: -3326637262364273618
+    second: drone novo png_23
+  - first:
+      213: -5591988431570926477
+    second: drone novo png_31
+  - first:
+      213: 5247910739685369503
+    second: drone novo png_32
+  - first:
+      213: -1812535867580203449
+    second: drone novo png_33
+  - first:
+      213: -1365215831806306662
+    second: drone novo png_34
+  - first:
+      213: -4219761194631429522
+    second: drone novo png_35
+  - first:
+      213: -562325365673361602
+    second: drone novo png_36
+  - first:
+      213: 6590071117901676999
+    second: drone novo png_39
+  - first:
+      213: -5745519705058662915
+    second: drone novo png_41
+  - first:
+      213: 6140773468551752194
+    second: drone novo png_43
+  - first:
+      213: 2431186855244696188
+    second: drone novo png_44
+  - first:
+      213: 8438341805845457529
+    second: drone novo png_46
+  - first:
+      213: 3074975108930464720
+    second: drone novo png_47
+  - first:
+      213: 2792370632418592849
+    second: drone novo png_49
+  - first:
+      213: 8411140434921669949
+    second: drone novo png_50
+  - first:
+      213: -6796445556991481771
+    second: drone novo png_51
+  - first:
+      213: -2830555660416081253
+    second: drone novo png_52
+  - first:
+      213: 4372238899425068475
+    second: drone novo png_53
+  - first:
+      213: -5441971802146352507
+    second: drone novo png_54
+  - first:
+      213: -8437893009696884095
+    second: drone novo png_55
+  - first:
+      213: 6579570273376408776
+    second: drone novo png_56
+  - first:
+      213: -4463124877403476752
+    second: drone novo png_57
+  - first:
+      213: -6129971227764238722
+    second: drone novo png_59
+  - first:
+      213: 570938825875437596
+    second: drone novo png_60
+  - first:
+      213: -1231777063507310176
+    second: drone novo png_61
+  - first:
+      213: 3048742149901954371
+    second: drone novo png_62
+  - first:
+      213: -5185261093273248421
+    second: drone novo png_63
+  - first:
+      213: 6797675064049614711
+    second: drone novo png_64
+  - first:
+      213: 2661753263870339002
+    second: drone novo png_65
+  - first:
+      213: 5983353709583182462
+    second: drone novo png_66
+  - first:
+      213: -7295008386229886948
+    second: drone novo png_67
+  - first:
+      213: 9137844288435316912
+    second: drone novo png_68
+  - first:
+      213: 3397048874984877547
+    second: drone novo png_69
+  - first:
+      213: -5946224951698199885
+    second: drone novo png_70
+  - first:
+      213: -5006291412873096177
+    second: drone novo png_71
+  - first:
+      213: -3972254047044195412
+    second: drone novo png_72
+  - first:
+      213: -802376558559815554
+    second: drone novo png_74
+  - first:
+      213: -6896148887890782371
+    second: drone novo png_75
+  - first:
+      213: -6783719283533856161
+    second: drone novo png_77
+  - first:
+      213: -4430210878300043561
+    second: drone novo png_78
+  - first:
+      213: 6473820141163659726
+    second: drone novo png_79
+  - first:
+      213: 6492859979249397837
+    second: drone novo png_80
+  - first:
+      213: 2534336688797105384
+    second: drone novo png_81
+  - first:
+      213: -123520794922753761
+    second: drone novo png_83
+  - first:
+      213: 7095233431917100609
+    second: drone novo png_84
+  - first:
+      213: -8184598570126526794
+    second: drone novo png_85
+  - first:
+      213: 8228899402571965751
+    second: drone novo png_86
+  - first:
+      213: 8001814572093771491
+    second: drone novo png_87
+  - first:
+      213: 8962788164572372479
+    second: drone novo png_88
+  - first:
+      213: -6498360346299613749
+    second: drone novo png_89
+  - first:
+      213: 7220873359075443950
+    second: drone novo png_90
+  - first:
+      213: -3395555764053147103
+    second: drone novo png_92
+  - first:
+      213: 2327214529079227116
+    second: drone novo png_94
+  - first:
+      213: -5837751292119568786
+    second: drone novo png_97
+  - first:
+      213: 9166416208949210733
+    second: drone novo png_98
+  - first:
+      213: -4031645569442727633
+    second: drone novo png_99
+  - first:
+      213: 8174410289808749965
+    second: drone novo png_100
+  - first:
+      213: -6517497940349134708
+    second: drone novo png_101
+  - first:
+      213: -5654540852651136671
+    second: drone novo png_103
+  - first:
+      213: 583288081174979744
+    second: drone novo png_104
+  - first:
+      213: 1274509022997659478
+    second: drone novo png_105
+  - first:
+      213: -65862905316347938
+    second: drone novo png_106
+  - first:
+      213: -8245266591495202965
+    second: drone novo png_107
+  - first:
+      213: -4760746698979919832
+    second: drone novo png_109
+  - first:
+      213: 3465850775541491771
+    second: drone novo png_110
+  - first:
+      213: 3905192611603479150
+    second: drone novo png_111
+  - first:
+      213: 7139467234518647386
+    second: drone novo png_112
+  - first:
+      213: 8293796957068668762
+    second: drone novo png_113
+  - first:
+      213: -3424159656652306738
+    second: drone novo png_114
+  - first:
+      213: 8860085046770393797
+    second: drone novo png_115
+  - first:
+      213: -6486194922840606689
+    second: drone novo png_116
+  - first:
+      213: -8783645510408238988
+    second: drone novo png_117
+  - first:
+      213: 2963347968549856722
+    second: drone novo png_118
+  - first:
+      213: -1066799632548390592
+    second: drone novo png_119
+  - first:
+      213: 560670663855365675
+    second: drone novo png_120
+  - first:
+      213: -7507659177584532600
+    second: drone novo png_121
+  - first:
+      213: -7982912558628138400
+    second: drone novo png_122
+  - first:
+      213: -5226508015659405649
+    second: drone novo png_123
+  - first:
+      213: -7123754295024538556
+    second: drone novo png_124
+  - first:
+      213: 4350207477344096488
+    second: drone novo png_125
+  - first:
+      213: 1773899219534784938
+    second: drone novo png_126
+  - first:
+      213: 4599167510413599231
+    second: drone novo png_127
+  - first:
+      213: -8690282933032599771
+    second: drone novo png_128
+  - first:
+      213: 5769681870078493221
+    second: drone novo png_129
+  - first:
+      213: -5361350705424902554
+    second: drone novo png_130
+  - first:
+      213: 5410509536142923307
+    second: drone novo png_131
+  - first:
+      213: -6608443570513685974
+    second: drone novo png_132
+  - first:
+      213: -5057279741640124708
+    second: drone novo png_133
+  - first:
+      213: -2731809467568459544
+    second: drone novo png_134
+  - first:
+      213: -352173772086704034
+    second: drone novo png_135
+  - first:
+      213: 8126747362562946521
+    second: drone novo png_136
+  - first:
+      213: -29419918425210727
+    second: drone novo png_137
+  - first:
+      213: -6748068853687198854
+    second: drone novo png_138
+  - first:
+      213: -446662937191109745
+    second: drone novo png_139
+  - first:
+      213: -5770920587684923056
+    second: drone novo png_140
+  - first:
+      213: -418955200067490504
+    second: drone novo png_141
+  - first:
+      213: -1462058160142599212
+    second: drone novo png_142
+  - first:
+      213: 7037680272545731283
+    second: drone novo png_143
+  - first:
+      213: -8987644182718876255
+    second: drone novo png_144
+  - first:
+      213: -8578573016307203998
+    second: drone novo png_145
+  - first:
+      213: -8815190427065985131
+    second: drone novo png_146
+  - first:
+      213: -3238684286009499661
+    second: drone novo png_147
+  - first:
+      213: 7088059486544277178
+    second: drone novo png_148
+  - first:
+      213: 3847351124978042830
+    second: drone novo png_149
+  - first:
+      213: 5020942325817525126
+    second: drone novo png_150
+  - first:
+      213: -381519601480526006
+    second: drone novo png_151
+  - first:
+      213: 4796722559507395057
+    second: drone novo png_152
+  - first:
+      213: -7721944873290859612
+    second: drone novo png_153
+  - first:
+      213: 1410759995933902939
+    second: drone novo png_154
+  - first:
+      213: -3896055431525407766
+    second: drone novo png_155
+  - first:
+      213: -1327809435321303164
+    second: drone novo png_156
+  - first:
+      213: -4300799461207380801
+    second: drone novo png_157
+  - first:
+      213: -4945119231499896880
+    second: drone novo png_158
+  - first:
+      213: -7205059925899367746
+    second: drone novo png_159
+  - first:
+      213: 5568846607740408114
+    second: drone novo png_160
+  - first:
+      213: -7225015018960495647
+    second: drone novo png_161
+  - first:
+      213: 5337978474790589768
+    second: drone novo png_162
+  - first:
+      213: -5574267363755041386
+    second: drone novo png_163
+  - first:
+      213: -5473410254641207296
+    second: drone novo png_164
+  - first:
+      213: -3405829111383700638
+    second: drone novo png_165
+  - first:
+      213: -4471794718707958118
+    second: drone novo png_166
+  - first:
+      213: -8063300704710986643
+    second: drone novo png_167
+  - first:
+      213: -5886531370555725276
+    second: drone novo png_168
+  - first:
+      213: -4861316077901789893
+    second: drone novo png_169
+  - first:
+      213: 6897758743202488055
+    second: drone novo png_170
+  - first:
+      213: 8505339990157585914
+    second: drone novo png_171
+  - first:
+      213: 2077188410385057723
+    second: drone novo png_172
+  - first:
+      213: 527407218394498120
+    second: drone novo png_173
+  - first:
+      213: -5654216411454942727
+    second: drone novo png_174
+  - first:
+      213: -2190195673746108230
+    second: drone novo png_175
+  - first:
+      213: 2129672393492598742
+    second: drone novo png_176
+  - first:
+      213: -3715789337783197185
+    second: drone novo png_177
+  - first:
+      213: 9155170120814750944
+    second: drone novo png_178
+  - first:
+      213: 1073606026774093653
+    second: drone novo png_179
+  - first:
+      213: 7458475608916069032
+    second: drone novo png_180
+  - first:
+      213: -4086016327138534398
+    second: drone novo png_181
+  - first:
+      213: 239997467562424258
+    second: drone novo png_182
+  - first:
+      213: 6479639716955061940
+    second: drone novo png_183
+  - first:
+      213: -8621861213855914033
+    second: drone novo png_184
+  - first:
+      213: -1640828320477771069
+    second: drone novo png_185
+  - first:
+      213: -463806956599437453
+    second: drone novo png_186
+  - first:
+      213: 7802602544459258325
+    second: drone novo png_187
+  - first:
+      213: -5844454290392269604
+    second: drone novo png_188
+  - first:
+      213: 1347659590942007281
+    second: drone novo png_189
+  - first:
+      213: -3416046110347750899
+    second: drone novo png_190
+  - first:
+      213: -4993541189105804716
+    second: drone novo png_191
+  - first:
+      213: -9135615455820186173
+    second: drone novo png_192
+  - first:
+      213: -2189189628888081528
+    second: drone novo png_193
+  - first:
+      213: 855497451327846122
+    second: drone novo png_194
+  - first:
+      213: 4708476134029703220
+    second: drone novo png_196
+  - first:
+      213: -3596214968547467093
+    second: drone novo png_197
+  - first:
+      213: 837643821987846710
+    second: drone novo png_198
+  - first:
+      213: 4692169180605453808
+    second: drone novo png_199
+  - first:
+      213: 8672780125829830146
+    second: drone novo png_200
+  - first:
+      213: 323194602569172850
+    second: drone novo png_201
+  - first:
+      213: -6684071299120584092
+    second: drone novo png_202
+  - first:
+      213: -1178010549201310840
+    second: drone novo png_203
+  - first:
+      213: 299078176559214084
+    second: drone novo png_204
+  - first:
+      213: 1362194053177668198
+    second: drone novo png_205
+  - first:
+      213: -4565619901037824001
+    second: drone novo png_206
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: drone novo png_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2012
+        width: 519
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f6e3b923e2fea60800000000000000
+      internalID: 7705428282342010712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_5
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 2168
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ca517ed443751b0800000000000000
+      internalID: -5668004096828396466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_7
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2141
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692ae8ee97088a610800000000000000
+      internalID: 1632696126103528086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_2
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 2014
+        width: 526
+        height: 235
+      alignment: 9
+      pivot: {x: 0.5106693, y: 0.500001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf26347a1f2ab540800000000000000
+      internalID: 5024380124950572990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_11
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 2156
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80247e425e8091570800000000000000
+      internalID: 8437785157115003400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_3
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1968
+        width: 533
+        height: 281
+      alignment: 9
+      pivot: {x: 0.5105292, y: 0.5798887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72747ff008fe2080800000000000000
+      internalID: -9210151504756575622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_4
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 1896
+        width: 557
+        height: 356
+      alignment: 9
+      pivot: {x: 0.5352645, y: 0.6576442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa833f2331cec860800000000000000
+      internalID: 7552186050726300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_16
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 1874
+        width: 139
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93f1dd6ae5d6eff0800000000000000
+      internalID: -7083146552937572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_18
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 2125
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583ce22a3465020c0800000000000000
+      internalID: -4602583970688875643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_20
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 2141
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dba660072c554a0800000000000000
+      internalID: -6605159492069180143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_21
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 2151
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3394d200166eb330800000000000000
+      internalID: 3728529760462345019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_22
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 2143
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1849ab210e75c5b0800000000000000
+      internalID: -5348730438940014561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_23
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 2141
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b941f2f57515b3a0800000000000000
+      internalID: -6650385678411413072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_31
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 2132
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454ec72d69b73f7d0800000000000000
+      internalID: -2885827048507644844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_32
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 2117
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f8fa798b5022450800000000000000
+      internalID: 6062414338771095425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_33
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 2129
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423143a8a87395600800000000000000
+      internalID: 457457905318499108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_34
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 2119
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0952b0ead372ce8b0800000000000000
+      internalID: -5121675530360642160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_35
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 2127
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a176455edf840a0800000000000000
+      internalID: -6896983667912533480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_36
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 2134
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c702639c7771975d0800000000000000
+      internalID: -3064392268204597124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_39
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 2141
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03526f44196195e00800000000000000
+      internalID: 1033882402641290544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_41
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 1901
+        width: 98
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7794ac749381c0d90800000000000000
+      internalID: -7130297475737695881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_43
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 2074
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53049c52312352d0800000000000000
+      internalID: -3291250402492415141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_44
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 2113
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619c6fab1bed8b8b0800000000000000
+      internalID: -5136110520088737514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_46
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1923
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48c0c6b6d73cb180800000000000000
+      internalID: -9098335751866628018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_47
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1906
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf2f0944eaefc880800000000000000
+      internalID: -8588387698173071434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_49
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1898
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337a418d2299a0150800000000000000
+      internalID: 5839648241772439347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_50
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1891
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc2373bd74a2c1a0800000000000000
+      internalID: -6790684428332749622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_51
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 1894
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9690911d61016390800000000000000
+      internalID: -7826973109435459942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_52
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 1891
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6be471a83899a730800000000000000
+      internalID: 4010904312144522092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_53
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1893
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40896be040d331bc0800000000000000
+      internalID: -3813637371816667132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_54
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 1882
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a809f0e9eb7fc210800000000000000
+      internalID: 1355438257293822115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_55
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 1887
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16763f4cef3f0c9e0800000000000000
+      internalID: -1603013191792367775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_56
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 1649
+        width: 202
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d77ae3eaf8dc680800000000000000
+      internalID: -8733166123863278200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_57
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1875
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2de5e542d3d22730800000000000000
+      internalID: 3972970721363488047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_59
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1881
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c40b0d0b58dd22d0800000000000000
+      internalID: -3301745066220256061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_60
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1857
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf469ef559c15ee0800000000000000
+      internalID: -1274015848388472891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_61
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1881
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c818e2a5366da60800000000000000
+      internalID: 7698449852014890122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_62
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1858
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff51a686062be4e0800000000000000
+      internalID: -1951424204064595973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_63
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1869
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e90d76b457093520800000000000000
+      internalID: 2682183113496136166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_64
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1882
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ea74822614cb150800000000000000
+      internalID: 5889654302532152964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_65
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 1870
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c8f98e148c415b0800000000000000
+      internalID: -5398469867909182395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_66
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 1776
+        width: 91
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed190c0a6382f5a0800000000000000
+      internalID: -6488979621595767317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_67
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 1882
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd34d8216da0fab0800000000000000
+      internalID: -4976286955435967013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_68
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 1875
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9d705d3256c79c0800000000000000
+      internalID: -3928153570401592856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_69
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 1863
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e620f3e234b384d0800000000000000
+      internalID: -3133462785054202140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_70
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 1874
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ea4857307d0ebe0800000000000000
+      internalID: -1449922670156796372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_71
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 1863
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f12c625c1c9280d0800000000000000
+      internalID: -3422001121392320016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_72
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1869
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59233c870e24d4d0800000000000000
+      internalID: -3110810832654358178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_74
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1857
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d1b4977650b9d90800000000000000
+      internalID: -7090067246389977814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_75
+      rect:
+        serializedVersion: 2
+        x: 3215
+        y: 1776
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d29d5e3e2957780800000000000000
+      internalID: -8685874798802686662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_77
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1774
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0154da1c891e7780800000000000000
+      internalID: -8683474941987499763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_78
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 1795
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9eeab922bb89940800000000000000
+      internalID: 5303194318543972823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_79
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 1858
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0847ec5c798616ee0800000000000000
+      internalID: -1269618618873777024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_80
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1819
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3af61c8680f3960800000000000000
+      internalID: 7583789543530144673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_81
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1833
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d8752d53d696c00800000000000000
+      internalID: 894366078939401531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_83
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 1819
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833b6298e0fb95b10800000000000000
+      internalID: 1970816381102764856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_84
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 1810
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebf4b192d8b8d630800000000000000
+      internalID: 3952111887544810476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_85
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 1819
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d61e46acb59a2b80800000000000000
+      internalID: -8418751915939195178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_86
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 1845
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81be5d9dcee7dc1e0800000000000000
+      internalID: -2175943489218024680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_87
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1839
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3dcda9f54f87da0800000000000000
+      internalID: -5946734616485506140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_88
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 1809
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7042aab997c96620800000000000000
+      internalID: 2767962909070999676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_89
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 1834
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b0f41c15272ba70800000000000000
+      internalID: 8841254713942805370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_90
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1834
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5a7988fecafcb80800000000000000
+      internalID: -8372283037469661721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_92
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1833
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cdc5d8995286400800000000000000
+      internalID: 317545115161517214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_94
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 1827
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20aa51bce6e558a70800000000000000
+      internalID: 8828566474476333570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_97
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1821
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bcb033ada3931e0800000000000000
+      internalID: -2217676632669566187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_98
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1812
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58331f87f0fd2a0b0800000000000000
+      internalID: -5718763319260531835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_99
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1812
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28c01dcfd9473c70800000000000000
+      internalID: 8950704009989113899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_100
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 1810
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ac3c184846b7c00800000000000000
+      internalID: 899423070866098714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_101
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1798
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74f076dce1e03470800000000000000
+      internalID: 8372440114608010367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_103
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1803
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a15664712a20a60800000000000000
+      internalID: 7638846138822761033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_104
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1778
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ada3e62bced5b50800000000000000
+      internalID: 6583678481383217773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_105
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1793
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be256f13b9ed7500800000000000000
+      internalID: 395729297813614258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_106
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 1800
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ecc15649ab2b690800000000000000
+      internalID: -7587797275651551702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_107
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 1795
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab748f8cce551a570800000000000000
+      internalID: 8476150449160341434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_109
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1766
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8201e6cacc7109650800000000000000
+      internalID: 6237511651741798440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_110
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 1780
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f167ba1e44918740800000000000000
+      internalID: 5152562511865143793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_111
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 1768
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da34c159b99a6720800000000000000
+      internalID: 2840251536230333142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_112
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 1788
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b640569ba451bc7e0800000000000000
+      internalID: -1744277019993766805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_113
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1778
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7432df3b026680770800000000000000
+      internalID: 8577217780971807559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_114
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1780
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2443fb8fbda76e40800000000000000
+      internalID: 5649675295757911082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_115
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1749
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c07963245df2670800000000000000
+      internalID: 8516259900741323791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_116
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1749
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd45df706d8b580b0800000000000000
+      internalID: -5726968121735162657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_117
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 1749
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf0725b9f46617d0800000000000000
+      internalID: -2948057882418540581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_118
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1735
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca2bdfb1ca2558b0800000000000000
+      internalID: -5164174386074539313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_119
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1714
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd3d177a15262a80800000000000000
+      internalID: -8492059251762709065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_120
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1714
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac3fed0a3cd214e0800000000000000
+      internalID: -2012303941581194066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_121
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1713
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60268f996768f070800000000000000
+      internalID: 8140370029817765995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_122
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1713
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dbf823c3ab7dc70800000000000000
+      internalID: 8995863548404940161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_123
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1714
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39e6b3b8610733e0800000000000000
+      internalID: -2074187554177488582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_124
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 1716
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d50095398f7058f0800000000000000
+      internalID: -553802526880692777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_125
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 1716
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8f2d3e75cc14520800000000000000
+      internalID: 2684651530746001629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_126
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1713
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241e2ee4b4f2f63c0800000000000000
+      internalID: -4364217513406176958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_127
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 1713
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eeb9c4d33905140800000000000000
+      internalID: 4706423502089743979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_128
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 1718
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77806f3e01e519d0800000000000000
+      internalID: -2804087741659183236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_129
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1704
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04e68db5badd0e40800000000000000
+      internalID: 5624391983759287307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_130
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1706
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bc28a0a63998fb0800000000000000
+      internalID: -4645019457003795612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_131
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1706
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5ab2b1b6def5a40800000000000000
+      internalID: 5359263125867308490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_132
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1704
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd4f195793a4d910800000000000000
+      internalID: 1861292416441470397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_133
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1704
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf9757d71de6a170800000000000000
+      internalID: 8189493659072700378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_134
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 1704
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b35e2794d8521c0800000000000000
+      internalID: -4529058503651411131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_135
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 1709
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1935ac66cf3a70a30800000000000000
+      internalID: 4181491083488416657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_136
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1699
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81c66a2eaa219d50800000000000000
+      internalID: 6742217044674396559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_137
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1702
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdcfc35b4244f960800000000000000
+      internalID: 7634800159595941360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_138
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1702
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f383016dd3dd190800000000000000
+      internalID: -7936118978752528590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_139
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1687
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8b9c3d0164c2980800000000000000
+      internalID: -8562391753451521799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_140
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1689
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a089ecb2a9824a270800000000000000
+      internalID: 8260772259129366538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_141
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 1684
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e0baa2bd0ba9c70800000000000000
+      internalID: 8978683262476684927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_142
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 1687
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd65d53d2161cfb60800000000000000
+      internalID: 7781118526300706523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_143
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 1689
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1071373a48e2b5a90800000000000000
+      internalID: -7324209221775190271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_144
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 1692
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa930693d893de0b0800000000000000
+      internalID: -5697834674838029910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_145
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 1694
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3682e96ad8c15ca0800000000000000
+      internalID: -6029817585667504578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_146
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 1687
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71e14345326cf8a0800000000000000
+      internalID: -6270028600305393282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_147
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 1689
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128c4626edae49ba0800000000000000
+      internalID: -6082978955816286175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_148
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1685
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cfca9ff329bc240800000000000000
+      internalID: 4813101430244965428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_149
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1687
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a79ab77c8843c780800000000000000
+      internalID: -8664001489989363801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_150
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1685
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5564d4f411f1bbe90800000000000000
+      internalID: -7008974235866675627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_151
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1672
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd69fff4e9c4f5210800000000000000
+      internalID: 1323861058300909279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_152
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 1672
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901abf9be19890240800000000000000
+      internalID: 4758485246355939593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_153
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 1672
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df81bba0e00cc620800000000000000
+      internalID: 2795610433643450328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_154
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 1678
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d855eac835aca23c0800000000000000
+      internalID: -4383468827100424819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_155
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 1677
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5be8d8e04ff068f0800000000000000
+      internalID: -549158500289680545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_156
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 1672
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a207d8d8e0821b0800000000000000
+      internalID: -5681274928801764720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_157
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1651
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ff8f1905f52a120800000000000000
+      internalID: 2423604349129785213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_158
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1670
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591c2c380bef9f310800000000000000
+      internalID: 1439461589999862165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_159
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 1658
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d02640e7752781b0800000000000000
+      internalID: -5654509610346340140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_160
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1661
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3241712c545ab60800000000000000
+      internalID: 7756682633128715187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_161
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1673
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86aca67498f8038e0800000000000000
+      internalID: -1715713638256686488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_162
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 1653
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fe27cd31bc833c0800000000000000
+      internalID: -4379527351454470309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_163
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 1661
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4aa1ad0dfedbbb0800000000000000
+      internalID: -4918511537727298315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_164
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 1668
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eed50117285c9d20800000000000000
+      internalID: 3286598752886185700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_165
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 1663
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e77e0073156c1220800000000000000
+      internalID: 2457950630796228585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_166
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 1663
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1113c2276d1d2060800000000000000
+      internalID: 6930227730395107612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_167
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1648
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a635eb50be495a20800000000000000
+      internalID: 3051556741883180709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_168
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 1666
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ab7560564efeec0800000000000000
+      internalID: -3535356059913307616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_169
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 1661
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7499a9ad3e3e4d0800000000000000
+      internalID: -3106388789919397911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_170
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 1661
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5122f6d405677860800000000000000
+      internalID: 7527596373633540445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_171
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 1653
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211f69b7445d896c0800000000000000
+      internalID: -4136321767631818478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_172
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 1661
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72b6271ae8930530800000000000000
+      internalID: 3820065040118493821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_173
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 1663
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67216af7e68cec420800000000000000
+      internalID: 2652277607481348726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_174
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1656
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726946e5d43cd9690800000000000000
+      internalID: -7593698659613239769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_175
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1646
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace81077828a20070800000000000000
+      internalID: 8071198373950099146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_176
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1641
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91436e79053fd5de0800000000000000
+      internalID: -1342649586415160295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_177
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1651
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbc3d4346dc9b1d0800000000000000
+      internalID: -3334408218824422447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_178
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1651
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0ac9cdb0abd3180800000000000000
+      internalID: -9133939909128838985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_179
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1651
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8493e2655621464a0800000000000000
+      internalID: -6601130927371437752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_180
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1646
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6d80e4bfc13a850800000000000000
+      internalID: 6386980562213066493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_181
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1624
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2c46d7a3f0a8680800000000000000
+      internalID: -8752166181954862403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_182
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1648
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f940da81e80a59b0800000000000000
+      internalID: -5090746663999354384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_183
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1653
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca4189b959fb3590800000000000000
+      internalID: -7693281374672696633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_184
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 1656
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2593f49502e34e0800000000000000
+      internalID: -2000125616552586513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_185
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 1656
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b58b14fc530119c0800000000000000
+      internalID: -3958378899714636368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_186
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 1656
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904606960615f9a70800000000000000
+      internalID: 8835870468450837513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_187
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1653
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84f928424cc46ff0800000000000000
+      internalID: -43685511316245362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_188
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 1653
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fec8b611e338a90800000000000000
+      internalID: -7312933125379789008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_189
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1627
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e09889b26e27550800000000000000
+      internalID: 6157236715485990409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_190
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 1654
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f13feeeca19dff10800000000000000
+      internalID: 2305158756212617719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_191
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 1624
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d00db57c4ce56b0800000000000000
+      internalID: -5305586950477967970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_192
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 1656
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51bbd10658c49a30800000000000000
+      internalID: 4221219022476915034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_193
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 1648
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54789d086ad32d20800000000000000
+      internalID: 3252683496331179098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_194
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 1653
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44be6b7ed51d4620800000000000000
+      internalID: 2759886191945757770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_196
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1646
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a9b13979d06d5e0800000000000000
+      internalID: -1885304449348691309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_197
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1642
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2a2e37cf3b7bb80800000000000000
+      internalID: -8379030684842155314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_198
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1649
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98ee1f1e41ca25e0800000000000000
+      internalID: -1933520548728477541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_199
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 1624
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7786123c896821a10800000000000000
+      internalID: 1878711985233815671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_200
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 1642
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36165fc7e560953e0800000000000000
+      internalID: -2064611951279513245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_201
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 1642
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcba78a3579d3560800000000000000
+      internalID: 7295153356974767353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_202
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1639
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75576ff9fec2fe2a0800000000000000
+      internalID: -6706091912438844073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_203
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1622
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c6b8bc05000ae60800000000000000
+      internalID: 7971371687458073687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_204
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1642
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5122dbcd55f0f00800000000000000
+      internalID: 1085180441773872612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_205
+      rect:
+        serializedVersion: 2
+        x: 3474
+        y: 1642
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dc6ea8dcac316f0800000000000000
+      internalID: -715004931674288785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drone novo png_206
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1622
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d70d02fdbf92ac80800000000000000
+      internalID: -8312906324013938729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

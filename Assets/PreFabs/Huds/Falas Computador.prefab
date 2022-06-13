@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7492391683919600439
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7492391683919600435}
+  - component: {fileID: 7492391683919600432}
+  - component: {fileID: 7492391683919600433}
+  - component: {fileID: 7492391683919600438}
+  m_Layer: 0
+  m_Name: Falas Computador
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7492391683919600435
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7492391683919600439}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 24.9, y: 6.2, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7492391683919600432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7492391683919600439}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 293078cbc4d94cd4396f43638624d93f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogo:
+    nome: Computador
+    dialogo:
+    - "Op\xE7\xE3o aceita. Modo Camale\xE3o.\rUniforme Num 07. Vers\xE3o BETA.\rCadete
+      da Reden\xE7\xE3o.Aperte \"V\" para\r continuar."
+    - "Bem Vindo esp\xE9cimem."
+    - "Vamos come\xE7ar usando as\r (setas) para aquecer suas\r escamas."
+    - "Suba nos obst\xE1culos. Se\r preciso \"C\" pule."
+    - "Pule duas vezes para cruzar\r obst\xE1culos mais altos."
+    - "Use a for\xE7a de seus bra\xE7os \"Z\" e\r segure-se nas paredes.\n"
+    - "Escale-as, mas cuidado para n\xE3o se\r soltar! \"Z\"\n"
+    - "Cuidado! Estamos usando l\xEDquidos\r radioativos para estimular nossos\r
+      esp\xE9cimes!\n"
+    - Se denfenda de Projeteis e destrua Drones com seu Impulso "X".
+    - Segure-se nas paredes "Z" e pule "C" de uma para a outra.
+    - "Encontre o Cart\xE3o de Passagem e\r saia do Simulador de Treino\n"
+    - "Combine os movimentos usados e\r mostre que \xE9 digno de servir o\r Grande
+      Governo Humanista!"
+    - Recapitulando... "Z" Segurar na Parede/"X" Impulso/ "C" Pulo e duplo pulo/"V"
+      Interagir.
+  dd: {fileID: 7492391683919600438}
+  animator: {fileID: 0}
+--- !u!61 &7492391683919600433
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7492391683919600439}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 7.3397017, y: 6.292326}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 47.682808, y: 24.294651}
+  m_EdgeRadius: 0
+--- !u!114 &7492391683919600438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7492391683919600439}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d8c60489c0b2694a8b7a8e8d112ef11, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nameText: {fileID: 0}
+  dialogText: {fileID: 0}
+  retrato: {fileID: 0}
+  animator: {fileID: 0}
+  acenSprite: {fileID: 0}
+  numero: 0

@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 5063aa7b02e85314e993c1fd153aee1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3606805536318427338
+    second: "General emo\xE7\xF5es_0"
+  - first:
+      213: 453338814411152667
+    second: "General emo\xE7\xF5es_1"
+  - first:
+      213: -6782736903934061759
+    second: "General emo\xE7\xF5es_2"
+  - first:
+      213: 3593689212204462115
+    second: "General emo\xE7\xF5es_3"
+  - first:
+      213: -1812461289651284914
+    second: "General emo\xE7\xF5es_4"
+  - first:
+      213: -2272850147430201844
+    second: "General emo\xE7\xF5es_5"
+  - first:
+      213: -2927323524978278916
+    second: "General emo\xE7\xF5es_6"
+  - first:
+      213: 2591738576828540628
+    second: "General emo\xE7\xF5es_7"
+  - first:
+      213: -1190140504571795127
+    second: "General emo\xE7\xF5es_8"
+  - first:
+      213: -940562040930816817
+    second: "General emo\xE7\xF5es_9"
+  - first:
+      213: 7956141513174202735
+    second: "General emo\xE7\xF5es_10"
+  - first:
+      213: 3859342010411687782
+    second: "General emo\xE7\xF5es_11"
+  - first:
+      213: -7915488946205465230
+    second: "General emo\xE7\xF5es_12"
+  - first:
+      213: -4498778546673239082
+    second: "General emo\xE7\xF5es_13"
+  - first:
+      213: -3733471064832739245
+    second: "General emo\xE7\xF5es_14"
+  - first:
+      213: -5498497410590706377
+    second: "General emo\xE7\xF5es_15"
+  - first:
+      213: -8774100565494076743
+    second: "General emo\xE7\xF5es_16"
+  - first:
+      213: 4077043089615347942
+    second: "General emo\xE7\xF5es_17"
+  - first:
+      213: 8910634755602469933
+    second: "General emo\xE7\xF5es_18"
+  - first:
+      213: 5492653092124407727
+    second: "General emo\xE7\xF5es_19"
+  - first:
+      213: 3554052972266938683
+    second: "General emo\xE7\xF5es_20"
+  - first:
+      213: -5847411400235966254
+    second: "General emo\xE7\xF5es_21"
+  - first:
+      213: -7306502842259032784
+    second: "General emo\xE7\xF5es_22"
+  - first:
+      213: -2637852709485949437
+    second: "General emo\xE7\xF5es_23"
+  - first:
+      213: 7376710829770755032
+    second: "General emo\xE7\xF5es_24"
+  - first:
+      213: -6520779645461836776
+    second: "General emo\xE7\xF5es_25"
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "General emo\xE7\xF5es_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1225
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fe3d1797d02fdc0800000000000000
+      internalID: -3606805536318427338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "General emo\xE7\xF5es_1"
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 1225
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d9fd3ff359a4600800000000000000
+      internalID: 453338814411152667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "General emo\xE7\xF5es_2"
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 0
+        width: 1225
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143d31ce8b0eed1a0800000000000000
+      internalID: -6782736903934061759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "General emo\xE7\xF5es_3"
+      rect:
+        serializedVersion: 2
+        x: 4197
+        y: 0
+        width: 1225
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320b99e5c495fd130800000000000000
+      internalID: 3593689212204462115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

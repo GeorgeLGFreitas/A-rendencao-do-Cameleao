@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 70003ddd0ce439044bcc3d51b4a366f3
+  - enabled: 1
+    path: "Assets/Scenes/Transi\xE7\xE3o.unity"
+    guid: e8c477d5509df1641a93d3118eaa596e
+  - enabled: 1
+    path: Assets/Scenes/Level Tutorial.unity
+    guid: d03e15903d842794b80ca76516e04434
+  - enabled: 1
+    path: "Assets/Scenes/Transi\xE7\xE3o 2.unity"
+    guid: 1b933c9e65883b749b30107905fd1d13
+  - enabled: 1
+    path: Assets/Scenes/Level 1 Corredores.unity
+    guid: c294853bd019b3c43b2f34b6429d0751
+  - enabled: 1
+    path: "Assets/Scenes/Transi\xE7\xE3o 3.unity"
+    guid: 9541cdf2bbf9a074786a2cc54a2014a5
+  - enabled: 1
+    path: Assets/Scenes/Level 3 Laboratorio.unity
+    guid: b6845abac3e9ce24abf2e48050638b28
+  - enabled: 1
+    path: "Assets/Scenes/Transi\xE7\xE3o Escolha.unity"
+    guid: b15e75b4c1d950b4da32b521de5304bc
+  - enabled: 1
+    path: Assets/Scenes/A Escolha.unity
+    guid: 5fd404a32a09b754fbcfa853b1c221c0
+  - enabled: 1
+    path: Assets/Scenes/Escolha Gas.unity
+    guid: e50b67e1a44e9a24590df54a9c893505
+  - enabled: 1
+    path: Assets/Scenes/Escolha Defesa.unity
+    guid: ff9230a54b3cdf041acc7ae18d94f874
+  - enabled: 1
+    path: Assets/Scenes/FINAL GENERAL.unity
+    guid: 6c28c7cb2cafb0c40a86f95c30d212c1
+  - enabled: 1
+    path: Assets/Scenes/FINAL MUTANTES.unity
+    guid: 0c2f86331702dd1418dd43d512b46d16
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/SettingsMenu.unity
+    guid: 55688c80ed5dccd46b3806893296c004
+  m_configObjects: {}

@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2913239834414158987
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2913239834414158991}
+  - component: {fileID: 2913239834414158989}
+  - component: {fileID: 689917467}
+  - component: {fileID: 689917469}
+  m_Layer: 0
+  m_Name: Falas GENERAL 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2913239834414158991
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2913239834414158987}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -80, y: 95, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &2913239834414158989
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2913239834414158987}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -3.376217, y: 7.2969913}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 26.250969, y: 16.034054}
+  m_EdgeRadius: 0
+--- !u!114 &689917467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2913239834414158987}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22641a7ebcb67a045bf205493bb9ae79, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogo:
+    nome:
+    - General
+    dialogo:
+    - "Garoto! Antes de prosseguir, eu\r preciso atualizar sua miss\xE3o..."
+    - "N\xE3o serei capaz de te mandar\r mensagens quando voc\xEA estiver l\xE1\r
+      embaixo."
+    - "O motim est\xE1 fora do controle e por\risso, o Major General nos deu uma\rnova
+      prioridade."
+    - "N\xE3o ser\xE1 mais necess\xE1rio que voc\xEA\r manualmente reinicie o sistema."
+    - "Voc\xEA ser\xE1 o respons\xE1vel por ativar\r nossa Arma secreta."
+    - "Ao lado da caixa de controle voc\xEA\r encontrar\xE1 um jarro de l\xEDquido\r
+      amarelo. Ative esse G\xE1s, ele ir\xE1\r derrubar o inimigo em poucos\r segundos..."
+    - "N\xE3o se preocupe, o capacete\r proteger\xE1 nossos soldados,\r incluindo
+      voc\xEA."
+    - "N\xE3o se preocupe, o capacete\r proteger\xE1 nossos soldados,\r incluindo
+      voc\xEA."
+  dd: {fileID: 689917469}
+  animator: {fileID: 0}
+--- !u!114 &689917469
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2913239834414158987}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2aa0f566d9faeb04da7e341ff77bb239, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nameText: {fileID: 0}
+  nxtLVL: {fileID: 0}
+  Dt: {fileID: 689917467}
+  dialogText: {fileID: 0}
+  retrato: {fileID: 0}
+  animator: {fileID: 0}
+  acenSprite: {fileID: 0}
+  mudanome: 0
+  numero: 0
+  nextLVL: 0
